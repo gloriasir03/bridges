@@ -8,7 +8,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - Principles caracteristicas?
 - inpermanet loost
-- What problem does it solve?
+- liquidez
 - What did you learn?
 
 ## tipos de bridge
